@@ -24,4 +24,4 @@ const person = {
 };
 
 document.getElementById("constant").innerHTML = person.bestName + " " + person.lastName + " was " + person.age + " years old when he died. "
-+ " He had very sharp " + person.eyeColor + " eyes. " + " Just think, had the Twilight Zone been in color...freaky! " ; 
++ " He had very sharp " + person.eyeColor + " eyes. " ; 
