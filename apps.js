@@ -15,3 +15,12 @@ document.getElementById("equation").innerHTML = x + " " + "times" + " " + y +" "
 
 let firstName = 'Adan' ; // This is a string variable.
 console.log(firstName) ;
+
+const person = {
+    bestName : "Rod",
+    lastName : "Serling",
+    age      : 50,
+    eyeColor : "brown"
+};
+
+document.getElementById("constant").innerHTML = person.bestName + person.lastName + " was " + person.age + " years old when he died. "
