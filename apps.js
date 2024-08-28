@@ -4,3 +4,6 @@ var name = 'Adan' ; // This would be a global scope variable.
 
 console.log(health) ;
 
+let x = 20 ; // This is another block variable.
+
+console.log(x) ;
