@@ -11,3 +11,7 @@ console.log(x) ;
 let y = 30 ;
 let z = x * y ;
 
+///
+
+let firstName = 'Adan' ;
+console.log(firstName) ;
