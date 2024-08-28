@@ -1,4 +1,4 @@
-let health = 100 ; // This would be a block variable. 
+let health = 100 ; // This is a block variable. 
 
 var name = 'Adan' ; // This would be a global scope variable.
 
@@ -13,5 +13,5 @@ let z = x * y ;
 
 ///
 
-let firstName = 'Adan' ;
+let firstName = 'Adan' ; // This is a string variable.
 console.log(firstName) ;
