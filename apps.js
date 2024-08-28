@@ -11,4 +11,3 @@ console.log(x) ;
 let y = 30 ;
 let z = x * y ;
 
-console,log('x and y make the product'${z}) ;
