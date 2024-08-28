@@ -11,7 +11,7 @@ console.log(x) ;
 let y = 30 ;
 let z = x * y ;
 
-///
+document.getElementById("equation").innerHTML = x + " " + "times" + " " + y + "makes the product:" + " " + z ;
 
 let firstName = 'Adan' ; // This is a string variable.
 console.log(firstName) ;
